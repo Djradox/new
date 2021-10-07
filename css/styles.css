@@ -1,37 +1,36 @@
 																											header{
-																												background-color: black;
-																												margin: -20px;
-																												img z-index: 1;
+																											background-color: black;
+																											margin: -20px;
 																											}
 
-																	body{
-																		background-color: grey ;
-																		background-size: 100%;
+																	body.acceuil{
+																	background-image: url(https://cdn.pixabay.com/photo/2020/06/12/15/16/black-wallpaper-4k-5290736_1280.jpg);
+																	background-size: 100%;
 																	}
 
 												h1.titre{
-													color: white;
-													text-align: center;
+												color: white;
+												text-align: center;
 												}
 
 												h1.div{
-													color: white;
+												color: white;
 												}
 
 												p.copyright{
-													color: white;
+												color: white;
 												}
 
 
 						nav.menu-nav ul li.btn{
-							list-style-type: none;
-							display: inline-block;
+						list-style-type: none;
+						display: inline-block;
 						}
 						nav.menu-nav ul li.btn a{
-							color: white;
-							text-decoration: none;
-							padding: 10px;
-							font-size: 20px;
+						color: white;
+						text-decoration: none;
+						padding: 10px;
+						font-size: 20px;
 						}
 						nav.menu-nav ul li.btn:hover a{
 						color: red;
@@ -39,18 +38,15 @@
 						}
 
 				div#content{
-					background-color: white;
+				background-color: white;
 				}
 
 				div#content div{
-					display: inline-block;
-					width: 48%;
-					background-color: white;
+				display: inline-block;
+				width: 48%;
+				background-color: white;
 				}
 
-				div#content div.rightbox iframe{
-				margin: 50px;
-				}
 
 				div#content div.leftbox h1, p.box{
 				color: white;
